@@ -1,0 +1,23 @@
+.name {
+    font-size: 3.5em;
+    text-align: center;
+}
+
+.presentation {
+    text-align: center;
+}
+
+.container {
+background-color: cadetblue;
+font-family: 'Roboto', sans-serif;
+color: #292929;
+scroll-behavior: smooth;
+font-weight: 300;
+font-size: 18px;
+word-break: break-word;
+line-height: 1;
+text-justify: auto;
+}
+body{
+    background-color: darkblue;
+}
